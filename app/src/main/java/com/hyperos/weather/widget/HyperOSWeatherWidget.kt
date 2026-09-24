@@ -1,4 +1,3 @@
-
 package com.hyperos.weather.widget
 
 import android.content.Context
@@ -180,4 +179,3 @@ class HyperOSWeatherWidget : GlanceAppWidget() {
         }
     }
 }
-                    
